@@ -2,7 +2,7 @@
 
 IP определил в консоли с помощью команд ping, nslookup и немного костыльно через wireshark (можно было через сторонние ресурсы, но это и так очевидно)
 
-https://ibb.co/q1xH5Pp
+<a href="https://ibb.co/VpZFtdK"><img src="https://i.ibb.co/n8vXbTW/image.png" alt="image" border="0"></a>
 
 https://ibb.co/q1xH5Pp
 
