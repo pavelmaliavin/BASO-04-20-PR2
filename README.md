@@ -71,7 +71,7 @@ ip.addr, udp.src, arp.src.hw_mac, eth.dst, eth.src
 <a href="https://ibb.co/0Kbhmwz"><img src="https://i.ibb.co/DY25zqj/image.png" alt="image" border="0"></a>
 
 Это было последнее задание практической работы 2.
-
+Дополнительные источники при выполнении работы https://hackware.ru/?p=7008
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/WV3bk5C/image.png" alt="image" border="0"></a>
